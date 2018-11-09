@@ -1,4 +1,4 @@
-﻿<Window x:Class="DocumentServer_PrintToPDF.MainWindow"
+<Window x:Class="DocumentServer_PrintToPDF.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:dxre="http://schemas.devexpress.com/winfx/2008/xaml/richedit"
